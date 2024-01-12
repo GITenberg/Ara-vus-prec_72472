@@ -1,0 +1,41 @@
+_repo: Ara-vus-prec_72472
+_version: 0.0.1
+alternative_title: Ara vos prec
+creator:
+  author:
+    agent_name: Eliot, T. S. (Thomas Stearns)
+    alias: Eliot, Thomas Stearns
+    birthdate: 1888
+    deathdate: 1965
+    gutenberg_agent_id: '599'
+    url: http://www.gutenberg.org/2009/agents/599
+    wikipedia: https://en.wikipedia.org/wiki/T._S._Eliot
+description: The error "vus" for "vos" in the title was discovered after printing.
+gutenberg_issued: '2023-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72472'
+language: en
+pgterms:marc904: https://archive.org/details/arvusprec00eliorich/page/2/mode/2up
+pgterms:marc905: 20230222042022eliot
+pgterms:marc906: '1919'
+pgterms:marc907: GB
+production_note: Carla Foust and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bThe Ovid Press, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Gerontion -- Burbank with a Baedeker; Bleistein with a cigar -- Sweeney
+  among the nightingales -- Sweeney erect -- Mr. Eliot's Sunday morning service --
+  Whispers of immortality -- The hippopotamus -- A cooking egg -- Lune de miel --
+  Dans le restaurant -- Le Spectateur -- Mélange adultère de tout -- Ode -- The love
+  song of J. Alfred Prufrock -- Portrait of a lady -- Preludes -- Rhapsody of a windy
+  night -- Morning at the window -- Conversation galante -- Aunt Helen -- Cousin Nancy
+  -- Mr. Apollinax -- The Boston Evening Transcript -- La figlia che piange.
+title: Ara vus prec
+url: http://www.gutenberg.org/ebooks/72472
