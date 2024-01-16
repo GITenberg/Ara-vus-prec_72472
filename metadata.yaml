@@ -1,6 +1,9 @@
 _repo: Ara-vus-prec_72472
 _version: 0.1.0
 alternative_title: Ara vos prec
+covers:
+- cover_type: archival
+  image_path: 72472-h/images/cover.jpg
 creator:
   author:
     agent_name: Eliot, T. S. (Thomas Stearns)
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/599
     wikipedia: https://en.wikipedia.org/wiki/T._S._Eliot
 description: The error "vus" for "vos" in the title was discovered after printing.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72472#Ara-vus-prec
 gutenberg_issued: '2023-12-23'
 gutenberg_type: Text
 identifiers:
